@@ -6,7 +6,7 @@
   <!-- Github Stars -->
   <img src="https://img.shields.io/github/stars/sanito11?color=50C878&style=flat-square" alt="stars" />
   <!-- Latest commit -->
-  <img src="https://img.shields.io/github/last-commit/sanito11/sanito?color=50C878&style=flat-square" alt="last commit" />
+  <img src="https://img.shields.io/github/last-commit/sanito11/sanito11?color=50C878&style=flat-square" alt="last commit" />
 </div>
 
 
